@@ -9,6 +9,7 @@ autores y desarrolladores:
  -jose bryan,
  -mario sanchez,
 -ingrid yoatzy
+-Hector daniel venta
 >>>>>>> 0e3aa08b198328394963c24a82fa3fe7b23c5e7c
 herramiesntas de desarrollo github (repositorio) django(framework) python(lenguaje de programacion) visual studio code
 
