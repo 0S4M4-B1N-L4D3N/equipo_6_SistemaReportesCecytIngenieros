@@ -7,3 +7,4 @@ autores y desarrolladores: -david suarez huerta,
 -ingrid
 herramiesntas de desarrollo github (repositorio) django(framework) python(lenguaje de programacion) visual studio code
 
+esto ayuda con repostorio del proyecto
