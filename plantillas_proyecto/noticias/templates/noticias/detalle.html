@@ -1,0 +1,8 @@
+{% extends 'noticias/base.html' %}
+
+{% block titulo %}Detalle de la Noticia{% endblock %}
+
+{% block contenido %}
+    <h2>{{ noticia.titulo }}</h2>
+    <p>{{ noticia.contenido }}</p>
+{% endblock %}

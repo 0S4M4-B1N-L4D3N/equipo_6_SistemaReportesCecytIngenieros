@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{% block titulo %}Mi sitio{% endblock %}</title>
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+</head>
+
+<body>
+    <header>
+        <h1>Noticias</h1>
+        <nav>
+            <a href="/">Inicio</a>
+            <a href="/noticia/1/">Ver una noticia</a>
+            <a href="/"
+        </nav>
+    </header>
+
+    <main>
+        {% block contenido %}
+        {% endblock %}
+    </main>
+
+    <footer>
+        <p>Hecho con Django ❤</p>
+    </footer>
+</body>
+
+</html>
