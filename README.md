@@ -7,4 +7,4 @@ autores y desarrolladores: -david suarez huerta,
 -ingrid
 herramiesntas de desarrollo github (repositorio) django(framework) python(lenguaje de programacion) visual studio code
 
-este es el repositorio del equipo ayuda con el equipo
+este es el repositorio del equipo ayuda con el equipo  y es nuestro primer repositorio en clase y del equipo
