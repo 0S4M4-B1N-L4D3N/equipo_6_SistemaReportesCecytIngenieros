@@ -1,6 +1,7 @@
 sistema de reportes inasistencias, actitudinal y academico.
 este sistema es un proyecto academico desarollado para facilitar concentracion de reportes actitudiales , y academicos y de inasistencias
 # equipo_6_SistemaReportesCecytIngenieros
+<<<<<<< HEAD
 autores y desarrolladores: -david suarez huerta,
  -jose,
  -mario sanchez,
@@ -8,3 +9,25 @@ autores y desarrolladores: -david suarez huerta,
 herramiesntas de desarrollo github (repositorio) django(framework) python(lenguaje de programacion) visual studio code
 
 este es el repositorio del equipo ayuda con el equipo  y es nuestro primer repositorio en clase y del equipo
+=======
+<<<<<<< HEAD
+
+=======
+autores y desarrolladores:
+ -david suarez huerta,
+ -jose bryan,
+ -mario sanchez,
+-ingrid yoatzy
+-Hector daniel venta
+>>>>>>> 0e3aa08b198328394963c24a82fa3fe7b23c5e7c
+herramiesntas de desarrollo github (repositorio) django(framework) python(lenguaje de programacion) visual studio code
+
+<<<<<<< HEAD
+esto ayuda con repostorio del proyecto
+=======
+En este proyecto abordaremos hacerca de las plantillas en django, y esto nos ayudara en el proyecto(repositori)
+hola maestra
+>>>>>>> 5a020ffa657677634ad40f624fd62e41053e20a0
+
+
+>>>>>>> 279c5649f56cdde1a25e0c39e18958380e52dd11
