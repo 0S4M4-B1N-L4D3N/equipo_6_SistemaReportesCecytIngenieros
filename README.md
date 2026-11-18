@@ -13,4 +13,5 @@ autores y desarrolladores:
 >>>>>>> 0e3aa08b198328394963c24a82fa3fe7b23c5e7c
 herramiesntas de desarrollo github (repositorio) django(framework) python(lenguaje de programacion) visual studio code
 
-En este proyecto abordaremos hacerca de las plantillas en django, y esto nos ayudara en el proyecto(repositori)
+En este proyecto abordaremos hacerca de las plantillas en django, y esto nos ayudara en el proyecto(repositorio)
+
