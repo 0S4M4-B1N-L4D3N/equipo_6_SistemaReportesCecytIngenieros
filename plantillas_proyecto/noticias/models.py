@@ -29,3 +29,10 @@ class Administrativo(models.Model):
     puesto = models.CharField(max_length=100)
     departamento = models.CharField(max_length=100)
     salario = models.IntegerField()
+
+class trabajadores(models.Model):
+    nombre_empleado = models.CharField(max_length=100)
+    apellido = models.CharField(max_length=100)
+    edad = models.IntegerField()
+    zona_de_trabajo = models.CharField(max_length=100)
+    salario = models.IntegerField()
