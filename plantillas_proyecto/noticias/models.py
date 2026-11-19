@@ -21,3 +21,11 @@ class Docente(models.Model):
   no_materias = models.IntegerField()
   no_alumnos = models.IntegerField()
 
+class Administrativo(models.Model):
+    nombre = models.CharField(max_length=100)
+    apellidos = models.CharField(max_length=100)
+    edad = models.IntegerField()
+    numero_ss = models.IntegerField()
+    puesto = models.CharField(max_length=100)
+    departamento = models.CharField(max_length=100)
+    salario = models.IntegerField()
