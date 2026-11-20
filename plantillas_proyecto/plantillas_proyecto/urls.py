@@ -1,9 +1,10 @@
 from django.contrib import admin
-from django.urls import path
-from noticias.views import home, detalle
+from django.urls import path, include
+from django.views.generic import TemplateView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', home, name='home'),
-    path('noticia/<int:id>/', detalle, name='detalle'),
+    path('cuentas/', include('cuentas.urls')),
+    path('', TemplateView.as_view(template_name='home.html'), name='home'),
+
 ]
